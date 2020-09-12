@@ -5,6 +5,6 @@ Author: Stijn van den Berg, 11887648
   DW Ziegler et al., 2005
 
 ![Fig1: Plot Beer Consumption](/fig.png)
-Format: ![Alt Text](url)
+
 
 
